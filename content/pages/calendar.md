@@ -4,19 +4,144 @@ title: Calendar
 uid: 68126608-f74a-e82c-50c8-5f2cffbfbc73
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introduction to Common Sense for Interactive Applications |
-| 2 | Common Sense in Languages and Cultures |
-| 3 | Applications Survey: Recommendation, Games |
-| 4 | Educational Applications |
-| 5 | Applications Survey: Inferring User Goals (Goose, Roadie, Creo/Miro/Adeo, etc.) |
-| 6 | No Meeting |
-| 7 | Tutorial on Commonsense Tools: OMCS, ConceptNet, EventNet, etc. |
-| 8 | Related Work (Cyc, ThoughtTreasure, Semantic Web, Conventional KR, etc.) |
-| 9 | Common Sense Inference |
-| 10 | Project Workshop & Critique |
-| 11 | Improving Knowledge Collection and Knowledge Quality |
-| 12 | Applications Survey: Affect, Personality, Viewpoints (Empathy Buddy, WWTT, Aesthetiscope, etc.) |
-| 13 | Project Workshop & Critique (cont.) |
-| 14 | Final Project Presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Common Sense for Interactive Applications
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Common Sense in Languages and Cultures
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Applications Survey: Recommendation, Games
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Educational Applications
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Applications Survey: Inferring User Goals (Goose, Roadie, Creo/Miro/Adeo, etc.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+No Meeting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial on Commonsense Tools: OMCS, ConceptNet, EventNet, etc.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Related Work (Cyc, ThoughtTreasure, Semantic Web, Conventional KR, etc.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Common Sense Inference
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Project Workshop & Critique
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Improving Knowledge Collection and Knowledge Quality
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Applications Survey: Affect, Personality, Viewpoints (Empathy Buddy, WWTT, Aesthetiscope, etc.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Project Workshop & Critique (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
