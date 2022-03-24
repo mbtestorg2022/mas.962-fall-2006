@@ -54,7 +54,7 @@ Common Sense in Languages and Cultures
 {{< tdopen >}}
 
 
-Anacleto, Junia, Henry Lieberman, Marie Tsutsumi, Vânia Neris, Aparecido Carvalho, Jose Espinosa, and Silvia Zem-Mascarenhas. "Can Common Sense Uncover Cultural Differences in Computer Applications?" _IFIP World Computer Conference._ Santiago, Chile. August 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.media.mit.edu/~lieber/Publications/Cultural-Differences-IFIP06.pdf))
+Anacleto, Junia, Henry Lieberman, Marie Tsutsumi, Vânia Neris, Aparecido Carvalho, Jose Espinosa, and Silvia Zem-Mascarenhas. "Can Common Sense Uncover Cultural Differences in Computer Applications?" _IFIP World Computer Conference._ Santiago, Chile. August 2006. ([PDF](http://web.media.mit.edu/~lieber/Publications/Cultural-Differences-IFIP06.pdf))
 
 and also choose at least one (1) from below:
 
@@ -110,7 +110,7 @@ Marcus, A. "Culture Class vs. Culture Clash." _Interactions_ 9, no. 3 (2002): 25
 
 Matocha, J., T. Camp, and R. Hooper. "Extended Analogy: An Alternative Lecture Method." _SIGCSE Bulletin_ 30, no. 1 (1998): 262-266.
 
-Stamm, S. "Mixed Nuts: Atypical Classroom Techniques For Computer Science Courses." _Crossroads_ 10, no. 4 (2004): 3. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://research.sidstamm.com/papers/mixednuts_v1.pdf))
+Stamm, S. "Mixed Nuts: Atypical Classroom Techniques For Computer Science Courses." _Crossroads_ 10, no. 4 (2004): 3. ([PDF](http://research.sidstamm.com/papers/mixednuts_v1.pdf))
 
 
 {{< tdclose >}}
@@ -126,11 +126,11 @@ Applications Survey: Inferring User Goals (Goose, Roadie, Creo/Miro/Adeo, etc.)
 {{< tdopen >}}
 
 
-Lieberman, H., and J. Espinosa. "A Goal-oriented Interface to Consumer Electronics Using Planning and Commonsense Reasoning." In _Proceedings of the 11th International Conference on Intelligent User Interfaces_. New York, NY: ACM Press, 2005, pp. 226-233. ISBN: 9781595932877. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://portal.acm.org/ft_gateway.cfm?id=1111497&type=pdf&coll=&dl=acm&CFID=15151515&CFTOKEN=6184618))
+Lieberman, H., and J. Espinosa. "A Goal-oriented Interface to Consumer Electronics Using Planning and Commonsense Reasoning." In _Proceedings of the 11th International Conference on Intelligent User Interfaces_. New York, NY: ACM Press, 2005, pp. 226-233. ISBN: 9781595932877. ( [PDF](http://portal.acm.org/ft_gateway.cfm?id=1111497&type=pdf&coll=&dl=acm&CFID=15151515&CFTOKEN=6184618))
 
 and also choose at least one (1) from below:
 
-Morgan, Bo. "Learning Perception Lattices to Compare Generative Explanations of Human-language Activity Stories." MIT, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=F63CD186CC0EA3D8F8B720646D3EC084?doi=10.1.1.114.9876&rep=rep1&type=pdf))
+Morgan, Bo. "Learning Perception Lattices to Compare Generative Explanations of Human-language Activity Stories." MIT, 2006. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=F63CD186CC0EA3D8F8B720646D3EC084?doi=10.1.1.114.9876&rep=rep1&type=pdf))
 
 Faaborg, A., and H. Lieberman. "A Goal-oriented Web Browser." In _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_. Edited by R. Grinter, T. Rodden, P. Aoki, E. Cutrell, R. Jeffries, and G. Olson. New York, NY: ACM Press, 2006, pp. 751-760. ISBN: 1595933727.
 
@@ -160,7 +160,7 @@ Stocky, T., A. Faaborg, and H. Lieberman. "A Commonsense Approach to Predictive 
 
 Mueller, E. T. "A Calendar with Common Sense." In _Proceedings of the 5th International Conference on Intelligent User Interfaces_. New York, NY: ACM Press, 2000, pp.198-201. ISBN: 9781581131345.
 
-Lieberman, H., A. Faaborg, W. Daher, and J. Espinosa. "How to Wreck a Nice Beach You Sing Calm Incense." In _Proceedings of the 10th International Conference on Intelligent User Interfaces_. New York, NY: ACM Press, 2005, pp. 278-280. ISBN: 1581138946. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://portal.acm.org/ft_gateway.cfm?id=1040898&type=pdf&coll=&dl=acm&CFID=15151515&CFTOKEN=6184618))
+Lieberman, H., A. Faaborg, W. Daher, and J. Espinosa. "How to Wreck a Nice Beach You Sing Calm Incense." In _Proceedings of the 10th International Conference on Intelligent User Interfaces_. New York, NY: ACM Press, 2005, pp. 278-280. ISBN: 1581138946. ( [PDF](http://portal.acm.org/ft_gateway.cfm?id=1040898&type=pdf&coll=&dl=acm&CFID=15151515&CFTOKEN=6184618))
 
 
 {{< tdclose >}}
@@ -226,7 +226,7 @@ Common Sense Inference
 {{< tdopen >}}
 
 
-Davis, E., and L. Morgenstern. "Introduction: Progress in Formal Commonsense Reasoning." _Artificial Intelligence_ 153, no. 1-2 (2004): 1-12. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ccs.neu.edu/home/futrelle/ai-ccis/seminar/papers/davis-morgenstern-common_sense.pdf))
+Davis, E., and L. Morgenstern. "Introduction: Progress in Formal Commonsense Reasoning." _Artificial Intelligence_ 153, no. 1-2 (2004): 1-12. ([PDF](http://www.ccs.neu.edu/home/futrelle/ai-ccis/seminar/papers/davis-morgenstern-common_sense.pdf))
 
 and also choose at least one (1) from below:
 
@@ -236,9 +236,9 @@ McCarthy, J. "[Programs with Common Sense](http://www-formal.stanford.edu/jmc/mc
 
 Mueller, Erik. _Commonsense Reasoning_. San Francisco, CA: Morgan Kaufmann Publishers, 2006. ISBN: 9780123693884.
 
-Lenat, Doug. "The Dimensions of Context-Space." _Austin_, TX: CyCorp, 1998. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB](https://courses.csail.mit.edu/6.803/pdf/lenat2.pdf))
+Lenat, Doug. "The Dimensions of Context-Space." _Austin_, TX: CyCorp, 1998. ([PDF - 1.2 MB](https://courses.csail.mit.edu/6.803/pdf/lenat2.pdf))
 
-Cohen, William. "WHIRL: A Word-based Information Representation Language." _Artificial Intelligence_ 118, no. 1-2 (2000): 163-196. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseer.ist.psu.edu/cache/papers/cs/739/http:zSzzSzwww.research.att.comzSz~wcohenzSzpostscriptzSzaij-whirl-overview.pdf/cohen98whirl.pdf))
+Cohen, William. "WHIRL: A Word-based Information Representation Language." _Artificial Intelligence_ 118, no. 1-2 (2000): 163-196. ([PDF](http://citeseer.ist.psu.edu/cache/papers/cs/739/http:zSzzSzwww.research.att.comzSz~wcohenzSzpostscriptzSzaij-whirl-overview.pdf/cohen98whirl.pdf))
 
 Choose something from this conference: [2005 Symposium on Formalization of Commonsense Reasoning](http://www.iccl.tu-dresden.de/announce/CommonSense-2005/), Corfu, Greece, May 2005.
 
@@ -272,11 +272,11 @@ Chklovski, T., and Y. Gil. "[Improving the Design of Intelligent Acquisition Int
 
 and also choose at least one (1) from below:
 
-Matuszek, Cynthia, M. Witbrock, R. Kahlert, J. Cabral, D. Schneider, P. Shah, and D. Lenat. "Searching for Common Sense: Populating Cyc from the Web." In _Proceedings of the Twentieth National Conference on Artificial Intelligence_. Pittsburgh, PA: AAAI Press, 2005. ISBN: 9781577352365. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.aaai.org/Papers/AAAI/2005/AAAI05-227.pdf))
+Matuszek, Cynthia, M. Witbrock, R. Kahlert, J. Cabral, D. Schneider, P. Shah, and D. Lenat. "Searching for Common Sense: Populating Cyc from the Web." In _Proceedings of the Twentieth National Conference on Artificial Intelligence_. Pittsburgh, PA: AAAI Press, 2005. ISBN: 9781577352365. ([PDF](https://www.aaai.org/Papers/AAAI/2005/AAAI05-227.pdf))
 
-von Ahn, L., and Dabbish, L. "Labeling Images with a Computer Game." In _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_. New York, NY: ACM Press, 2004, pp. 319-326. ISBN: 9781581137026. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cs.cmu.edu/~biglou/ESP.pdf))
+von Ahn, L., and Dabbish, L. "Labeling Images with a Computer Game." In _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_. New York, NY: ACM Press, 2004, pp. 319-326. ISBN: 9781581137026. ([PDF](http://www.cs.cmu.edu/~biglou/ESP.pdf))
 
-Richardson, S. D., W. B. Dolan, and L. Vanderwende. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["MindNet: Acquiring and Structuring Semantic Information from Text." (PDF)](http://www.aclweb.org/anthology/C98-2175) In _Proceedings of the 17th International Conference on Computational Linguistics_. Vol. 2. _Association for Computational Linguistics_ (1998): 1098-1102.
+Richardson, S. D., W. B. Dolan, and L. Vanderwende. ["MindNet: Acquiring and Structuring Semantic Information from Text." (PDF)](http://www.aclweb.org/anthology/C98-2175) In _Proceedings of the 17th International Conference on Computational Linguistics_. Vol. 2. _Association for Computational Linguistics_ (1998): 1098-1102.
 
 Vanderwende, Lucy. "Volunteers Created the Web." In _Knowledge Collection from Volunteer Contributors: Papers from the 2005 Spring Symposium_. Edited by Timothy Chklovski, Pedro Domingos, Henry Lieberman, Rada Mihalcea, and Push Singh. Menlo Park, CA: AAAI Press, 2005, pp. 84-90. ISBN: 9781577352297.
 
@@ -298,7 +298,7 @@ Liu, H., H. Lieberman, and T. Selker. "A Model of Textual Affect Sensing Using R
 
 and also choose at least one (1) from below:
 
-Liu, Hugo, and Pattie Maes. "What Would They Think? A Computational Model of Attitudes." In _Proceedings of the 9th International Conference on Intelligent User Interface_. New York, NY: ACM Press, 2004, pp. 38-45. ISBN: 9781581138153. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://portal.acm.org/ft_gateway.cfm?id=964451&type=pdf&coll=&dl=acm&CFID=15151515&CFTOKEN=6184618))
+Liu, Hugo, and Pattie Maes. "What Would They Think? A Computational Model of Attitudes." In _Proceedings of the 9th International Conference on Intelligent User Interface_. New York, NY: ACM Press, 2004, pp. 38-45. ISBN: 9781581138153. ( [PDF](http://portal.acm.org/ft_gateway.cfm?id=964451&type=pdf&coll=&dl=acm&CFID=15151515&CFTOKEN=6184618))
 
 Mueller, Erik T., and Dyer, Michael G. "[Towards a Computational Theory of Human Daydreaming](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.13.3493)." In _Proceedings of the Seventh Annual Conference of the Cognitive Science Society_. Mahwah, NJ: Lawrence Erlbaum Associates, 1986, pp. 120-129. ISBN: 9780898599428.
 
